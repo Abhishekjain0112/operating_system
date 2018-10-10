@@ -5,4 +5,6 @@ This repository contains all my Operating System Lab assignments that I have com
 
 1.) First Come First Serve Scheduling Alogorithm.
 2.) Shortest Job First Scheduling Alogorithm.
-3.) Round Robin Scheduling Algorithm."# operating_system" 
+3.) Round Robin Scheduling Algorithm."# operating_system"
+4.) Producer Consumer Problem.
+5.) Producer Consumer Problem Using Thread.
