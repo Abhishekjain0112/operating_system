@@ -11,3 +11,4 @@ This repository contains all my Operating System Lab assignments that I have com
 6.) Producer Consumer Problem Using Thread.
 7.) FIFO Page Replacement Algorithm.
 8.) LRU Page Replacement Algorithm.
+9.) FIFO Disk Scheduling Algorithm.
